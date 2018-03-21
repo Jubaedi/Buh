@@ -1,0 +1,84 @@
+.normal_blue {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	color: #ddeeff;
+	text-decoration: none;
+}
+.normal {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	color: #336699;
+	text-decoration: none;
+}
+.normal_6688AA {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	color: #6688AA;
+	text-decoration: none;
+}
+.normal_white {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	color: #EEEEEE;
+	text-decoration: none;
+}
+.twelve_white {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: #FFFFF5;
+	text-decoration: none;
+}
+.twelve_blue {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: #DDEEFF;
+	text-decoration: none;
+}
+.twelve_dark_blue {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: #336699;
+	text-decoration: none;
+}
+.big_blue {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	color: #ddeeff;
+	text-decoration: none;
+}
+.second {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+.second:link {
+	color: #990000;
+	font-style: normal;		
+	text-decoration: none;		
+}
+.second:hover {
+	color: #888885;
+	font-style: normal;
+	text-decoration: underline;
+}
+.second:visited {
+	color: #888885;
+	font-style: normal;
+	text-decoration: none;
+}
+.second:active {
+	color: #888885;
+	font-style: normal;
+	text-decoration: none;
+}
+.menu_atas {
+	color:#FFFFFF;
+	text-decoration:none;
+}
